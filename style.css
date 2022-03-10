@@ -1,0 +1,42 @@
+.arrow{
+    height: 50px;
+    width: 50px;
+    margin-left: 15vw;
+    margin-top: 0vw;
+}
+.chapa{
+    margin-left: 27vw;
+    margin-top: 5vw;
+    margin-left:8vw ;
+}
+.insta{
+    margin-top: 1vw;}
+.p2{order: 3;
+justify-content: center;}
+.p1{order: 1;
+justify-content: center;}
+.columna{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+}
+h3{order:2;}
+
+h1{
+    margin-left: 35vw;
+    color: rgb(170, 69, 191);
+}
+.robot1{
+    margin-left: 27vw;
+    width: 500px;
+    
+}
+body{
+    background-color: rgb(208, 198, 232);
+    font-family: 'League Gothic', sans-serif;
+}
+h2{
+    margin-left: 35vw;
+    justify-content: center;
+    
+}
